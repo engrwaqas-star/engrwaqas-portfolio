@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://engrwaqas-star.github.io/developer-portfolio/sitemap.xml
