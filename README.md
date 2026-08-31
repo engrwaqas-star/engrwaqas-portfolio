@@ -148,17 +148,9 @@ This portfolio represents my ongoing development as a frontend developer and pro
 
 **Waqas Ashiq — Frontend Developer**
 
-
-## Deployment
-
-GitHub Pages, Netlify or Vercel can host this static portfolio.
-
 ## Personal links
 
 - GitHub: https://github.com/engrwaqas-star
 - LinkedIn: https://www.linkedin.com/in/waqas-ashiq-b489b041b
-- Email: waqasashiq0381@gmail.com
-- WhatsApp: https://wa.me/923075204612
 
-## Quality target
 **junior frontend developer / internship / freelance** positioning. 
