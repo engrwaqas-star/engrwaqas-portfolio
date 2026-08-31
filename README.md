@@ -119,14 +119,8 @@ These features help the portfolio remain accessible to both users and search eng
 
 ## 📬 Contact
 
-I’m available for **frontend development opportunities, freelance projects, collaborations, and professional work**.
-
-### Connect With Me
-
-* **GitHub:** [Waqas Ashiq](YOUR_GITHUB_URL)
-* **LinkedIn:** [Waqas Ashiq](YOUR_LINKEDIN_URL)
-* **Email:** YOUR_EMAIL
-* **WhatsApp:** YOUR_WHATSAPP_LINK
+I’m available for **frontend development opportunities, freelance projects, collaborations, and professional work**
+  
 
 ## 🎯 Professional Focus
 
@@ -167,5 +161,4 @@ GitHub Pages, Netlify or Vercel can host this static portfolio.
 - WhatsApp: https://wa.me/923075204612
 
 ## Quality target
-
-This portfolio i for a **junior frontend developer / internship / freelance** positioning. 
+**junior frontend developer / internship / freelance** positioning. 
